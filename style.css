@@ -11,7 +11,8 @@
     position: fixed;
     top: 0;
     left: 0;
-    background-color: #007fff;
+    background: rgb(0,9,36);
+    background: linear-gradient(135deg, rgba(0,9,36,0.9598214285714286) 0%, rgba(0,127,255,1) 100%);
 }
 
 .sidenav-foto{
@@ -82,7 +83,7 @@ p{
 }
 
 .icon{
-    color: #007fff;
+    color:#007fff;
     margin-left: 20px;
     height: 40px;
     width: 40px;
@@ -105,23 +106,6 @@ p{
     left: 420px;
 }
 
-
-.list3{
-
-    position: fixed;
-    top:45% ;
-    left: 420px;
-}
-
-
-.iconknow{
-    color: #007fff;
-   
-    
-    font-size: 45px;
-    
-
-}
 
 /*Página 3*/
 
